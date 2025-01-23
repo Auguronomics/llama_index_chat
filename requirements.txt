@@ -1,0 +1,9 @@
+streamlit
+ollama
+duckdb==0.10.3
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-vector-stores-duckdb
+pypd
+streamlit-pills
